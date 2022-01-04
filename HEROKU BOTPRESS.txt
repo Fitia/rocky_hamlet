@@ -1,0 +1,14 @@
+heroku container:push web --app rocky-hamlet-17626
+
+Creating app... done, ⬢ rocky-hamlet-17626
+https://rocky-hamlet-17626.herokuapp.com/ | https://git.heroku.com/rocky-hamlet-17626.git
+
+heroku container:push web --app rocky-hamlet-17626
+
+heroku container:release web --app rocky-hamlet-17626
+
+
+
+HEROKU BOTPRESS
+https://rocky-hamlet-17626.herokuapp.com/ | https://git.heroku.com/rocky-hamlet-17626.git
+PSW: hamlet-17626
